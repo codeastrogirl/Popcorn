@@ -1,4 +1,4 @@
-# Popcorn
+# Popcorn - Rocket Launch
 
 <img width="732" alt="Screenshot 2025-07-06 at 2 47 19 PM" src="https://github.com/user-attachments/assets/12de9264-fe28-4ad0-8c2a-aff62ec96e2e" />
 
